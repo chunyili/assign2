@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="com.rest.test.jilong:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ChunyiRest.war">
+      <element id="artifact" artifact-name="com.rest.test.jilong:war exploded" />
+    </root>
+  </artifact>
+</component>
